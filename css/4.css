@@ -1,3 +1,14 @@
 body{
     background-color: red;
 }
+
+.denim-header nav ul li{
+    float: left;
+
+}
+
+.hr-menu{
+    float: left;
+    
+}
+
